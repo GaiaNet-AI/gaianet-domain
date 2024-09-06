@@ -26,6 +26,7 @@ import (
 
 var NotFoundPagePath = ""
 
+//nolint
 const (
 	NotFound = `<!DOCTYPE html>
 <html lang="en">
